@@ -44,7 +44,7 @@ module.exports = {
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {0770811929
-        BLOCK : true,
+        BLOCK : false,
         NOT_WORKING : true,
   },
   READ : {
