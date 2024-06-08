@@ -43,20 +43,20 @@ module.exports = {
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
-  MOROCCO_NUMBERS : {
-        BLOCK : false,
-        NOT_WORKING : false,
+  MOROCCO_NUMBERS : {0770811929
+        BLOCK : true,
+        NOT_WORKING : true,
   },
   READ : {
      ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
-  INBOX_BLOCK : false,
-  AUTO_REACT : false, 
+  BOT_OFFLINE : true,
+  INBOX_BLOCK : true,
+  AUTO_REACT :  true, 
   OWNER_REACT : 'database replit',
-  AUTO_BGM : false,
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
