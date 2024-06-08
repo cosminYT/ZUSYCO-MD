@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "0770811928",
+  OWNER_NUMBER: "0770811929",
   SUDO_NUMBERS : "0770811929,0770811929",
   OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
@@ -53,7 +53,7 @@ module.exports = {
      STATUS : true,
   },
   BOT_OFFLINE : true,
-  INBOX_BLOCK : true,
+  INBOX_BLOCK : false,
   AUTO_REACT :  true, 
   OWNER_REACT : 'database replit',
   AUTO_BGM : true,
